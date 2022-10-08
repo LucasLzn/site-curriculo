@@ -152,11 +152,11 @@ section li{
 }
 
 #rodape-img-facebook{
-    background-color: var(--cor-azul-facebook);    
+    background-color: var(--cor-amarelo-escuro);    
 }
 
 #link-facebook{
-    background-color: var(--cor-azul-claro);      
+    background-color: var(--cor-amarelo-claro);      
 }
 
 .container-arejado-final{
@@ -204,6 +204,10 @@ footer{
 
 #img-email{
     height: 1.4rem;
+}
+
+#img-facebook{
+    height: 3.9rem;
 }
 
 @media screen and (min-width: 960px){
@@ -283,4 +287,3 @@ li{
 }
     
 
-}
